@@ -4,6 +4,28 @@ Netoxa is a production-ready, AI-powered phishing detection system built using a
 
 ---
 
+📚 Datasets Used
+This AI phishing detector was trained on a cleaned and balanced dataset of approximately 500,000 emails, sourced from publicly available email corpora:
+
+1.Enron Email Dataset (Data files © Original Authors)
+
+2.Spamhamemails from kaggle (licensed under ODbL)
+
+We carefully cleaned and merged both datasets to ensure high-quality, real-world examples of both legit and phishing/spam emails. This allowed our MiniLM-based model to learn from realistic language patterns found in corporate and malicious communications
+
+---
+
+# Netoxa - AI Phishing Email Detector
+
+🎯 Detect phishing emails using MiniLM AI model.
+
+🔗 **[Live Demo (Gradio)](https://b0e2386ace364a66cf.gradio.live)**  
+_Paste an email to see if it's phishing or legit in real time
+This link will expire on August-04-2025
+_Note: This is a temporary demo. If the link is inactive, contact me for a fresh demo._
+
+---
+
 ## 🚀 Features
 - Real-time email classification
 - Lightweight MiniLM model for fast inference
