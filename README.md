@@ -19,10 +19,8 @@ We carefully cleaned and merged both datasets to ensure high-quality, real-world
 
 🎯 Detect phishing emails using MiniLM AI model.
 
-🔗 **[Live Demo (Gradio)](https://b0e2386ace364a66cf.gradio.live)**  
-_Paste an email to see if it's phishing or legit in real time
-This link will expire on August-04-2025
-_Note: This is a temporary demo. If the link is inactive, contact me for a fresh demo._
+for demo, please contact.
+
 
 ---
 
